@@ -6,8 +6,6 @@
   />
 </p>
 
-# 🛡️ Threat Hunt Report – PwnCrypt Ransomware Detection & Containment (Scenario 4)
-
 ---
 
 ## 🎭 Scenario Context
