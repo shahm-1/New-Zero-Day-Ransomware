@@ -16,6 +16,10 @@ The CISO raised concerns that this new ransomware variant could be spreading wit
 
 ---
 
+# 🛡️ Threat Hunt Report – PwnCrypt Ransomware Detection & Containment
+
+---
+
 ## 📌 Executive Summary
 
 This investigation was initiated following threat intelligence regarding a new ransomware strain named PwnCrypt. Analysis of telemetry from `vm-lab-mde` revealed the creation of `pwncrypt.ps1`, widespread file renaming consistent with encryption activity, and execution of PowerShell with execution policy bypass. Multiple files were converted into `.pwncrypt` variants. Process telemetry showed the ransomware was executed under the SYSTEM account. The system was isolated, malware scans confirmed ransomware presence, and a ticket was submitted for full re-imaging.
